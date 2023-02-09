@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+	int num;
+	printf("enter the number");
+	scanf("%d",&num);
+	switch(num)
+	{
+		case1:num>0;
+		printf("positive");
+		break;
+		
+		case2:num<0;
+		printf("negative");
+		break;
+		
+		case3:num==0;
+		printf("equal");
+	}
+	return 0;
+}
