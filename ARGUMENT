@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+	int a,b,result;
+	printf("\ngoing to calculate the sum of two numbers");
+	printf("\%d%d",&a,&b);
+	scanf("%d%d",&a,&b);
+	sum(a,b);
+}
+	void sum(inta,intb)
+{
+	printf("\n the sum of %d",a+b);
+}
