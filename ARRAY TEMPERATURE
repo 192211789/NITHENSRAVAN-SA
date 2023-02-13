@@ -1,0 +1,13 @@
+#included<stdio.h>
+#define n6
+int main()
+int arr[n]={987243};
+int temp;
+for (int i=o;i<n/2;i++)
+{
+	temp =arr[i]
+	arr[n-c-1]=temp
+}
+for (int i=0; i++){
+	printf ("%d,"arr[i]);
+}
